@@ -1,5 +1,8 @@
 # Forest Data Resources
 
+A collection of geospatial data resources in the context of forestry and remote sensing for Germany. The aim is to collect data resources which are available for wider extents (e.g. federal state level) as open data. This list does not intend to be complete, but rather lists resources which are relevant in my daily work.  
+
+
 ## Forest Mask
 
 - Stocked forest area map (2018) - Thünen Institute  
