@@ -17,6 +17,9 @@ A collection of geospatial data resources in the context of forestry and remote 
   [![Badge](https://img.shields.io/badge/Resource-grey)](https://doi.org/10.3220/DATA20221214084846)  [![Badge](https://img.shields.io/badge/Download-grey)](https://www.openagrar.de/servlets/MCRFileNodeServlet/openagrar_derivate_00057802/Dominant_Species_Class.tif)
 - Dominant Leaf Type (2018) - Copernicus High Resolution Layers  
   [![Badge](https://img.shields.io/badge/Resource-grey)](https://doi.org/10.2909/7b28d3c1-b363-4579-9141-bdd09d073fd8)  [![Badge](https://img.shields.io/badge/WMS-grey)](https://copernicus.discomap.eea.europa.eu/arcgis/services/GioLandPublic/HRL_DominanteLeafType_2018/ImageServer/WMSServer?request=GetCapabilities&service=WMS)
+- Forest Type (2018) - Copernicus High Resolution Layers
+  [![Badge](https://img.shields.io/badge/Resource-grey)](https://doi.org/10.2909/77873ff3-4edf-48d4-94cd-c5b7b61da29e)  [![Badge](https://img.shields.io/badge/WMS-grey)](https://copernicus.discomap.eea.europa.eu/arcgis/services/GioLandPublic/HRL_ForestType_2018/ImageServer/WMSServer?request=GetCapabilities&service=WMS)
+
 
 
 ## Orthophotos
